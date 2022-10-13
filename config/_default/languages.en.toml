@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "GBS Blog"
-# logo = "img/logo.png"
+logo = "img/blog-logo-round-96.png"
 description = "Yet Another IT Blog"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Gabriel Barceló Soteras"
-  image = "img/blowfish_logo.png"
+  image = "img/blog-logo.png"
   headline = "If it's not automated, it's not done"
   bio = "DevOps/Sysadmin based in Mallorca 🏝, Spain 🇪🇸"
   links = [
