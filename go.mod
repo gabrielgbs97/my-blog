@@ -1,4 +1,4 @@
 module github.com/gabrielgbs97/my-blog
 
-go 1.19
+go 1.22
 
