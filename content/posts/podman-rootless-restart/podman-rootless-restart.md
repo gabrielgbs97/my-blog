@@ -2,7 +2,8 @@
 title: "Rootless Podman: restart rootless containers on boot"
 date: 2024-25-04T14:30:00+01:00
 kind: page
-draft: true
+draft: false
+tags: ["linux", "containers"]
 ---
 
 Podman is an open-source container engine that allows developers to build, manage, and run containers directly on Linux systems. Unlike Docker, which relies on a central daemon, Podman operates in a daemonless architecture.
