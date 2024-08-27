@@ -23,7 +23,7 @@ Por ejemplo, si comparamos con HAProxy (Community) verás fácilmente que éste 
 - Métricas para Prometheus/InfluxDB/Elastic
 - Más opciones avanzadas de balanceo/proxy en https://docs.haproxy.org/3.0/configuration.html
 
-Todas las características anteriores solo estan en NGINX Plus, un producto comercial de @F5 Inc derivado de NGINX.
+Todas las características anteriores solo están en NGINX Plus, un producto comercial de @F5 Inc derivado de NGINX.
 
 Si queremos mezclar cargas de trabajo de servidor HTTP y LB/RP en una única solución existe el clásico Apache HTTPD. Tiene alguna de las carencias anteriores pero al menos cuenta con comprobación activa de servidores.
 
