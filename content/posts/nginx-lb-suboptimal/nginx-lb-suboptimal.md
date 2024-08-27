@@ -1,6 +1,6 @@
 ---
 title: "¿Deberías desplegar NGINX como Proxy Inverso?"
-date: 2024-27-08T14:30:00+02:00
+date: 2024-08-27T14:30:00+02:00
 kind: page
 draft: false
 #tags: ["linux", "containers"]

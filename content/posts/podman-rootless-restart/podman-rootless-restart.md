@@ -1,6 +1,6 @@
 ---
 title: "Rootless Podman: restart rootless containers on boot"
-date: 2024-24-04T14:30:00+02:00
+date: 2024-04-24T14:30:00+02:00
 kind: page
 draft: false
 #tags: ["linux", "containers"]
