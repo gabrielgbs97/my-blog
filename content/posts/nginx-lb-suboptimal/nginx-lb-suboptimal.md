@@ -12,8 +12,7 @@ Existen muchas publicaciones por la red que incluyen NGINX en varios despliegues
 
 Si eres arquitecto de soluciones se software libre, la inclusión de NGINX para cargas LB/RP creo que no es lo más adecuado.
 
-> "Para un hombre con un martillo, todo parece un clavo"
-> Abraham Maslow
+> "Para un hombre con un martillo, todo parece un clavo".- Abraham Maslow
 
 Por ejemplo, si comparamos con HAProxy (Community) verás fácilmente que éste último tiene características superiores:
 
