@@ -30,3 +30,5 @@ Si queremos mezclar cargas de trabajo de servidor HTTP y LB/RP en una única sol
 Otras alternativas para LB/RP más modernas pueden ser: Envoy, Traefik y Caddy. Pero siempre hay que contrastar nuestras necesidades con la matriz de características de cada solución.
 
 En definitiva, cada herramienta tiene su propio foco. Aunque NGINX sea (casi) excelente como servicio HTTP y con un uso comprobado y extensivo, no significa que sea idóneo para cargas de LB/RP. También comentar que es una lástima que F5 Inc. incluya funcionalidades tan críticas detrás de una barrera de pago.
+
+Este post también ha sido publicado en Medium: https://medium.com/@gabrielgbs
